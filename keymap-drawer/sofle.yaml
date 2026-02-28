@@ -13,8 +13,8 @@ layers:
   - F7
   - F8
   - F9
-  - )
-  - '='
+  - F10
+  - F10
   - F1
   - F2
   - F3
@@ -23,7 +23,7 @@ layers:
   - F6
   - F7
   - F8
-  - F9
+  - UP ARROW
   - F10
   - F11
   - F12
@@ -34,9 +34,9 @@ layers:
   - $
   - '%'
   - ^
-  - '&'
-  - KP MULTIPLY
-  - (
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
   - )
   - '|'
   - {t: ▽, type: trans}
